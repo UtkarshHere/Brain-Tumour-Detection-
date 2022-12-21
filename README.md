@@ -1,2 +1,2 @@
-# Brain-tTumour-Detection-
+# Brain-Tumour-Detection-
 Capstone Project 
